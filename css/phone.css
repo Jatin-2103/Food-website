@@ -1,0 +1,41 @@
+/*Navigation section*/
+#navbar {
+    flex-direction: column;
+}
+
+/*Home section*/
+#home {
+    height: 300px;
+
+}
+
+#home::before {
+    height: 444px;
+
+}
+
+#home p {
+    font-size: 1.2rem;
+}
+
+/*Services section*/
+#services {
+    flex-direction: column;
+}
+
+/*Clients section*/
+
+#clients {
+    overflow: auto;
+}
+
+/*Contact us section*/
+/*utility section*/
+.h-primary-center {
+    font-size: 26px;
+}
+
+.bn30 {
+    font-size: 13px;
+    padding: 10px 15px;
+}
